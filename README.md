@@ -41,6 +41,6 @@ I'm interested in data analysis and machine learning.
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=gjtang&show_icons=true&locale=en&hide_border=true" alt="gjtang" />
   </td>
 </tr></table>  
-<br/> 
+<br> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gjtang&" alt="gjtang" /></p>
+<table<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gjtang&" alt="gjtang" /></table>  
