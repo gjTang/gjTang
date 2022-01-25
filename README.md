@@ -23,7 +23,6 @@ I'm interested in data analysis and machine learning.
 - **Bizdata** - Intern, Data analyst *(Aug 2018 - Nov 2018)* 
 <br>  
 
-
 ### Summary
 - 🔭 I’m currently working on [Bizdata](http://bizdata.kr/) as a Data analysist.
 - 📝 I regularly write articles on [my blog](https://velog.io/@gjtang).  
