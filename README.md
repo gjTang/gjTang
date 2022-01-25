@@ -12,17 +12,15 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
-### Hello, I'm Hyeonseung Yang!
-- Hello! This is Hyunseung Yang, a data analyst with 3 years of experience.
+### Hello, I'm Hyeonseung Yang! 🇰🇷
+- I am a data analyst with 3 years of experience.
+- I'm interested in data analysis and machine learning.
 - Curious and always asks “Why?”
 - In order not to lose the attitude of learning, I run [Tech Blog] (https://velog.io/@gjtang).
 - I am constantly managing my health (4 times a week) and diet (🐔).
 - Make unit-test a daily life.
 - Think about what kind of worst case would be.
 - My hobbies are playing board games and visiting restaurants.
-
-I'm a passionate and curious data analyst from South Korea 🇰🇷<br>
-I'm interested in data analysis and machine learning.
 <br>
 
 ### Experience
