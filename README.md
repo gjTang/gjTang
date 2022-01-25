@@ -43,6 +43,6 @@ I'm interested in data analysis and machine learning.
 </tr></table>  
 <br> 
 
-<table><tr>
+<table><tr><td width="50%">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gjtang&" alt="gjtang" />
-</tr></table>  
+</td></tr></table>  
