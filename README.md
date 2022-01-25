@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gjtang&show_icons=true&locale=en&layout=compact" alt="gjtang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gjtang&show_icons=true&locale=en" alt="gjtang" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gjtang&show_icons=true&theme=radical&locale=en" alt="gjtang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gjtang&" alt="gjtang" /></p>
