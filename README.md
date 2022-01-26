@@ -12,7 +12,7 @@
   <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://velog.io/@gjtang" target="_blank">
-  <img src=https://img.shields.io/badge/-Velog-20c997?&style=for-the-badge&logoColor=white alt=velog style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/-Velog-20c997?&style=for-the-badge&logoColor=white alt=velog style="margin-bottom: 8px;" />
 </a>
 
 ### Hello, I'm Hyeonseung Yang! 🇰🇷
