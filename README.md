@@ -19,7 +19,7 @@
 - I am a data analyst with 3 years of experience.
 - I'm interested in data analysis and machine learning.
 - Curious and always asks “Why?”
-- In order not to lose the attitude of learning, I run Tech Blog.
+- In order not to lose the attitude of learning, I manage Tech Blog.
 - I am constantly managing my health (4 times a week) and diet (🐔).
 - Make unit-test a daily life.
 - Think about what kind of worst case would be.
