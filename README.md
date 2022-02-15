@@ -27,7 +27,7 @@
 <br>
 
 ### Experience
-- **Bizdata** - Data analysist *(Jan 2019 ~)*
+- **Bizdata** - Data analyst *(Jan 2019 ~)*
 - **Bizdata** - Intern, Data analyst *(Aug 2018 - Dec 2018)* 
 <br>  
 
