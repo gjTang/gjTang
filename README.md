@@ -27,7 +27,6 @@
 <br>
 
 ### Experience
-- **Storelink** - Data Scientist *(Mar 2022 - )*
 - **Bizdata** - Data analyst *(Jan 2019 - Mar 2022)*
 - **Bizdata** - Intern, Data analyst *(Aug 2018 - Dec 2018)* 
 <br>  
