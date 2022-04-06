@@ -16,7 +16,7 @@
 </a>
 
 ### Hello, I'm Hyeonseung Yang! 🇰🇷
-- I am a data analyst with 3 years of experience.
+- I am a Data Analyst with 3 years of experience.
 - I'm interested in data analysis and machine learning.
 - Curious and always asks “Why?”
 - In order not to lose the attitude of learning, I manage Tech Blog.
@@ -27,6 +27,7 @@
 <br>
 
 ### Experience
+- **Storelink** - Data Scientist *(Mar 2022 - )*
 - **Bizdata** - Data analyst *(Jan 2019 - Mar 2022)*
 - **Bizdata** - Intern, Data analyst *(Aug 2018 - Dec 2018)* 
 <br>  
