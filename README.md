@@ -1,4 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gjtang&label=Profile%20views&color=0e75b6&style=flat" alt="gjtang" /> </p>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgjTang&count_bg=%23F90736&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
