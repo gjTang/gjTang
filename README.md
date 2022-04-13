@@ -51,3 +51,5 @@
 <table>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gjtang&" alt="gjtang" />
 </table>  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gjTang&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
