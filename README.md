@@ -33,13 +33,32 @@
 - **Bizdata** - Intern, Data analyst *(Aug 2018 - Dec 2018)* 
 <br>  
 
-## Languages and Tools
+## Stack
+### Languages
 <code><img alt = "Python" height="20" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">Python</code>
+<code><img alt = "Scala" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_scala_icon_130180.png">Scala</code>
 
+### Framework
+<code><img alt = "Scikit-Learn" height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">Scikit-Learn</code>
+<code><img alt = "Tensorflow" height="20" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">Tensorflow</code>
 
+### Database
+<code><img alt = "MySQL" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">MySQL</code>
+<code><img alt = "AWS S3" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/amazon_s_icon_130997.png">AWS S3</code>
+<code><img alt = "AWS Athena" height="20" src="https://user-images.githubusercontent.com/48475824/89182480-c26c1b00-d5d0-11ea-833d-cc80ac37ad26.png">AWS Athena</code>
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<br>
+### DevOps
+<code><img alt = "Git" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png">Git</code>
+<code><img alt = "AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png">AWS</code>
+<code><img alt = "Linux" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png">Linux</code>
+
+### Document / Messenger
+<code><img alt = "Jira" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png">Jira</code>
+<code><img alt = "Notion" height="20" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/notion_logo_icon_145025.png"> Notion</code>
+<code><img alt = "Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png">Slack</code>
+<code><img alt = "Discord" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png">Discord</code>
+<code><img alt = "Collabee" height="20" src="https://img1.daumcdn.net/thumb/C500x500.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/1jQz/image/AsnCcAN9VoXYOKAevlahH3tdvCw.png">Collabee</code>
+
 
 ## Github Stats
 <table><tr>
@@ -57,3 +76,8 @@
 </table>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gjTang&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- 
+Devops 
+<code><img alt = "Jenkins" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png"> Jenkins</code>
+-->
