@@ -59,6 +59,7 @@
 <code><img alt = "Discord" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png">Discord</code>
 <code><img alt = "Collabee" height="20" src="https://img1.daumcdn.net/thumb/C500x500.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/1jQz/image/AsnCcAN9VoXYOKAevlahH3tdvCw.png">Collabee</code>
 
+<br>
 
 ## Github Stats
 <table><tr>
@@ -79,5 +80,8 @@
 
 <!-- 
 Devops 
-<code><img alt = "Jenkins" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png"> Jenkins</code>
+<code><img alt = "Jenkins" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png">Jenkins</code>
+
+### Visualization
+<code><img alt = "Tableau" height="20" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/tableau_logo_icon_144818.png">Tableau</code>
 -->
