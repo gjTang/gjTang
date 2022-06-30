@@ -21,7 +21,6 @@
 </a>
 
 ### Hello, I'm Hyeonseung Yang! 🇰🇷
-- I am a Data Analyst with 3 years of experience.
 - I'm interested in machine learning, recommendation system and mlops.
 - Curious and always asks “Why?”
 - In order not to lose the attitude of learning, I manage Tech Blog.
