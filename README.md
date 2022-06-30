@@ -21,11 +21,10 @@
 </a>
 
 ### Hello, I'm Hyeonseung Yang! 🇰🇷
-- I am a Data Analyst with 3 years of experience.
 - I'm interested in machine learning, recommendation system and mlops.
 - Curious and always asks “Why?”
 - In order not to lose the attitude of learning, I manage Tech Blog.
-- I am constantly managing my health (At least 3 times a week) and diet (🐔).
+- I am constantly managing my health.
 - Make unit-test a daily life.
 - Think about what kind of worst case would be.
 <br>
